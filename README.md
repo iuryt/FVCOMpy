@@ -13,7 +13,7 @@
  
 <p align="center">
   <img src="https://github.com/iuryt/FVCOMpy/blob/main/img/fvcom_grid.png" /></br>
-  Source: https://tos.org/oceanography/assets/docs/19-1_chen.pdf
+  Source: <a href="https://tos.org/oceanography/assets/docs/19-1_chen.pdf">Advances in Computational Oceanography</a>
 </p>
 
 
