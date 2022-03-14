@@ -21,6 +21,11 @@
 
 One of the main reason to create this repository is to _investigate alternatives_ for users to use FVCOM outputs in their researches, e.g. the [Northeast Coastal Ocean Forecast System (**NECOFS**)](http://fvcom.smast.umassd.edu/necofs/). The starting point is to create some tutorial notebooks showing solutions for reading and regriding FVCOM data to allow using `xarray` for multidimensional analysis. With time, we could try to wrap it as a `Python` package.
 
+<p align="center">
+  NECOFS data
+  <img src="https://github.com/iuryt/FVCOMpy/blob/main/img/scatter_temperature_salinity.png" /></br>
+</p>
+
 ## Currently available tutorials
 
 | Tutorial    | Badge       |
