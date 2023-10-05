@@ -7,7 +7,7 @@
 
 <!-- description -->
 <p align="center">
-  <strong> Reading and regriding FVCOM outputs with Python <a href="https://docs.xarray.dev/en/stable/">xarray</a>.</strong>
+  <strong> Reading and plotting FVCOM outputs with Python <a href="https://docs.xarray.dev/en/stable/">xarray</a>.</strong>
 </p>
 
  
